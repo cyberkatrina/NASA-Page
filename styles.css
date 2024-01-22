@@ -40,10 +40,12 @@ body {
 
 div {
   width: 25%; 
+  color: rgb(62, 62, 62);
 }
 
 h3 {
   font-family: arial black, sans-serif;
+  color: black;
 }
 
 .button {
